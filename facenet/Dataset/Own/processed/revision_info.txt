@@ -1,0 +1,7 @@
+arguments: src/align/align_dataset_mtcnn.py ./Dataset/Own/raw ./Dataset/Own/processed --image_size 160 --margin 32 --random_order
+--------------------
+tensorflow version: 1.7.0
+--------------------
+git hash: git rev-parse HEAD: The system cannot find the file specified
+--------------------
+git diff HEAD: The system cannot find the file specified
